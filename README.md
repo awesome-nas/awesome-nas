@@ -1,4 +1,6 @@
-# Awesome NAS
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
+# Awesome NAS [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <p>
 <img src="./public/syno.png" width="20%">
