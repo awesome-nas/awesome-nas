@@ -1,5 +1,9 @@
 # Awesome NAS
 
+<p>
+<img src="./public/syno.png" width="20%">
+</p>
+
 A curated list of awesome NAS（Network Attached Storage）software and resources
 
 ## Media
