@@ -49,6 +49,9 @@
     - name: Joplin
       desc: Joplin - the secure note taking and to-do app
       url: https://github.com/laurent22/joplin
+    - name: 九快记账
+      desc: 个人记账解决方案
+      url: https://github.com/getmoneynote/moneywhere-user-fe
 - name: eBook
   desc: ebook
   repos:
