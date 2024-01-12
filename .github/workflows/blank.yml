@@ -26,8 +26,6 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v4
-        with:
-          python-version: 4.x
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
