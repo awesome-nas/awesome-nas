@@ -4,7 +4,7 @@ from jinja2 import Template
 import yaml
 
 # 读取 ymal
-with open('blocks.yml', 'r', encoding='utf-8') as f:
+with open('projects.yml', 'r', encoding='utf-8') as f:
     blocks = yaml.load(f.read(), Loader=yaml.FullLoader)
 
 # shields 服务基础地址
