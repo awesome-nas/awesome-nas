@@ -8,6 +8,8 @@
 
 A curated list of awesome NAS（Network Attached Storage）software and resources
 
+<!-- autogen start -->
+
 ## Media
 
 _Movie、Music、Photo_
@@ -92,3 +94,5 @@ _bitTorrent_
 | 🔗                                                           | Last Version                                                                            | Last Commit                                                                               | Last Releases                                                                              | License                                                                               | Stars                                                                                          | Top language                                                                         |
 | :----------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
 | [Transmission](https://github.com/transmission/transmission) | ![图](https://img.shields.io/github/v/release/transmission/transmission?label= "title") | ![图](https://img.shields.io/github/last-commit/transmission/transmission?label= "title") | ![图](https://img.shields.io/github/release-date/transmission/transmission?label= "title") | ![图](https://img.shields.io/github/license/transmission/transmission?label= "title") | ![图](https://img.shields.io/github/stars/transmission/transmission?label=&style=flat "title") | ![图](https://img.shields.io/github/languages/top/transmission/transmission "title") |
+
+<!-- autogen end -->
