@@ -1,5 +1,4 @@
 # This is a basic workflow to help you get started with Actions
-
 name: gen-readme
 
 # Controls when the workflow will run
@@ -24,6 +23,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 4.x
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
