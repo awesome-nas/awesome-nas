@@ -22,7 +22,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # Set up Python Env
       - name: Set up Python
@@ -41,21 +41,7 @@ jobs:
           cd build
           python build.py
 
-      - name: Commit files
-        id: commit-files
-        run: |
-          if [ -n "$(git status --porcelain README.md)" ]; then
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git add README.md
-            git commit -m "docs: update blog"
-            echo "hasChange=true" >> $GITHUB_OUTPUT
-          else
-            echo "No changes detected"
-          fi
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        if: ${{ steps.commit-files.outputs.hasChange == 'true' }}
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          commit_message: gen README.md
