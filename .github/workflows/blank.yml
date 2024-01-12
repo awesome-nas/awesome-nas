@@ -40,3 +40,22 @@ jobs:
         run: |
           cd build
           python build.py
+
+      - name: Commit files
+        id: commit-files
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add README.md
+            git commit -m "docs: update blog"
+            echo "hasChange=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected"
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        if: ${{ steps.commit-files.outputs.hasChange == 'true' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
