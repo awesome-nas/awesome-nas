@@ -1,0 +1,111 @@
+- name: Media
+  desc: Movie、Music、Photo
+  repos:
+    - name: movie-web
+      desc: movie-web 简介
+      url: https://github.com/movie-web/movie-web
+    - name: radishes
+      desc: radishes 简介
+      url: https://github.com/radishes-music/radishes
+    - name: spotube
+      desc: spotube 简介
+      url: https://github.com/KRTirtho/spotube
+    - name: arozos
+      desc: arozos 简介
+      url: https://github.com/tobychui/arozos
+    - name: Emby
+      desc: Emby Server is a personal media server with apps on just about every device.
+      url: https://github.com/MediaBrowser/Emby
+    - name: Emby.Releases
+      desc: Emby binary releases
+      url: https://github.com/MediaBrowser/Emby.Releases
+    - name: Jellyfin
+      desc: The Free Software Media System
+      url: https://github.com/jellyfin/jellyfin
+    - name: PhotoPrism
+      desc: AI-Powered Photos App for the Decentralized Web 🌈💎✨
+      url: https://github.com/photoprism/photoprism
+    - name: Photoview
+      desc: Photo gallery for self-hosted personal servers
+      url: https://github.com/photoview/photoview
+- name: Note
+  desc: note
+  repos:
+    - name: memos
+      desc: A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+      url: https://github.com/usememos/memos
+    - name: siyuan
+      desc: A privacy-first, self-hosted, fully open source personal knowledge management software
+      url: https://github.com/siyuan-note/siyuan
+    - name: logseq
+      desc: A privacy-first, open-source platform for knowledge management and collaboration
+      url: https://github.com/logseq/logseq
+    - name: AppFlowy
+      desc: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations.
+      url: https://github.com/AppFlowy-IO/AppFlowy
+    - name: Pile
+      desc: Pile is a desktop app for reflective journaling. It's about simplicity, keeping your data local, and enhancing your journaling experience with AI.
+      url: https://github.com/UdaraJay/Pile
+    - name: Joplin
+      desc: Joplin - the secure note taking and to-do app
+      url: https://github.com/laurent22/joplin
+- name: eBook
+  desc: ebook
+  repos:
+    - name: Calibre-Web
+      desc: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+      url: https://github.com/janeczku/calibre-web
+    - name: Koodo Reader
+      desc: A modern ebook manager and reader with sync and backup capacities
+      url: https://github.com/koodo-reader/koodo-reader
+- name: Monitor
+  desc: monitor
+  repos:
+    - name: Uptime Kuma
+      desc: Uptime Kuma 简介
+      url: https://github.com/louislam/uptime-kuma
+    - name: scrutiny
+      desc: Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+      url: https://github.com/AnalogJ/scrutiny
+- name: Work
+  desc: work
+  repos:
+    - name: Paperless-ngx
+      desc: A community-supported supercharged version of paperless. scan, index and archive all your physical documents
+      url: https://github.com/paperless-ngx/paperless-ngx
+    - name: Danswer
+      desc: Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+      url: https://github.com/danswer-ai/danswer
+- name: Development
+  desc: development platform
+  repos:
+    - name: appsmith_
+      desc: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+      url: https://github.com/appsmithorg/appsmith
+    - name: ToolJet
+      desc: Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder
+      url: https://github.com/ToolJet/ToolJet
+    - name: penpot
+      desc: The Open-Source design & prototyping platform
+      url: https://github.com/penpot/penpot
+    - name: appwrite
+      desc: Appwrite is a backend platform for developing Web, Mobile, and Flutter applications.
+      url: https://github.com/appwrite/appwrite
+    - name: Gogs
+      desc: Gogs is a painless self-hosted Git service
+      url: https://github.com/gogs/gogs
+- name: Knowledge management platform
+  desc: Community forum, help center, knowledge management platform
+  repos:
+    - name: Apache Answer
+      desc: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform
+      url: https://github.com/apache/incubator-answer
+    - name: RSSHub
+      desc: RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+      url: https://github.com/DIYgod/RSSHub
+- name: BitTorrent
+  desc: bitTorrent
+  repos:
+    - name: Transmission
+      desc: Transmission is a fast, easy, and free BitTorrent client.
+      url: https://github.com/transmission/transmission
