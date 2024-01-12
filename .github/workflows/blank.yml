@@ -48,4 +48,5 @@ jobs:
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          file_pattern: "*.md"
           commit_message: gen README.md
