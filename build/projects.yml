@@ -97,6 +97,9 @@
     - name: Gogs
       desc: Gogs is a painless self-hosted Git service
       url: https://github.com/gogs/gogs
+    - name: Squoosh
+      desc: Squoosh is an image compression web app that reduces image sizes through numerous formats.
+      url: https://github.com/GoogleChromeLabs/squoosh
 - name: Knowledge management platform
   desc: Community forum, help center, knowledge management platform
   repos:
