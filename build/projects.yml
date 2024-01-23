@@ -46,6 +46,9 @@
     - name: Navidrome
       desc: Modern Music Server and Streamer compatible with Subsonic/Airsonic
       url: https://github.com/navidrome/navidrome
+    - name: audiobookshelf
+      desc: Audiobookshelf is a self-hosted audiobook and podcast server.
+      url: https://github.com/advplyr/audiobookshelf
 - name: Note
   desc: note
   repos:
