@@ -78,13 +78,14 @@ _ebook_
 |[Tale Book](https://github.com/talebook/talebook)|![图](https://img.shields.io/github/v/release/talebook/talebook?label= "title")|![图](https://img.shields.io/github/last-commit/talebook/talebook?label= "title")|![图](https://img.shields.io/github/release-date/talebook/talebook?label= "title")|![图](https://img.shields.io/github/license/talebook/talebook?label= "title")|![图](https://img.shields.io/github/stars/talebook/talebook?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/talebook/talebook "title")|
 
 ## Monitor
-_monitor_
+_monitor,dashboard_
 
 | 🔗      | Last Version | Last Commit | Last Releases | License | Stars | Top language |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ |
 |[Uptime Kuma](https://github.com/louislam/uptime-kuma)|![图](https://img.shields.io/github/v/release/louislam/uptime-kuma?label= "title")|![图](https://img.shields.io/github/last-commit/louislam/uptime-kuma?label= "title")|![图](https://img.shields.io/github/release-date/louislam/uptime-kuma?label= "title")|![图](https://img.shields.io/github/license/louislam/uptime-kuma?label= "title")|![图](https://img.shields.io/github/stars/louislam/uptime-kuma?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/louislam/uptime-kuma "title")|
 |[scrutiny](https://github.com/AnalogJ/scrutiny)|![图](https://img.shields.io/github/v/release/AnalogJ/scrutiny?label= "title")|![图](https://img.shields.io/github/last-commit/AnalogJ/scrutiny?label= "title")|![图](https://img.shields.io/github/release-date/AnalogJ/scrutiny?label= "title")|![图](https://img.shields.io/github/license/AnalogJ/scrutiny?label= "title")|![图](https://img.shields.io/github/stars/AnalogJ/scrutiny?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/AnalogJ/scrutiny "title")|
 |[homepage](https://github.com/gethomepage/homepage)|![图](https://img.shields.io/github/v/release/gethomepage/homepage?label= "title")|![图](https://img.shields.io/github/last-commit/gethomepage/homepage?label= "title")|![图](https://img.shields.io/github/release-date/gethomepage/homepage?label= "title")|![图](https://img.shields.io/github/license/gethomepage/homepage?label= "title")|![图](https://img.shields.io/github/stars/gethomepage/homepage?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/gethomepage/homepage "title")|
+|[OneNav](https://github.com/helloxz/onenav)|![图](https://img.shields.io/github/v/release/helloxz/onenav?label= "title")|![图](https://img.shields.io/github/last-commit/helloxz/onenav?label= "title")|![图](https://img.shields.io/github/release-date/helloxz/onenav?label= "title")|![图](https://img.shields.io/github/license/helloxz/onenav?label= "title")|![图](https://img.shields.io/github/stars/helloxz/onenav?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/helloxz/onenav "title")|
 
 ## Work
 _work_
