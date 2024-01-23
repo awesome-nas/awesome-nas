@@ -118,6 +118,9 @@
     - name: scrutiny
       desc: Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
       url: https://github.com/AnalogJ/scrutiny
+    - name: homepage
+      desc: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+      url: https://github.com/gethomepage/homepage
 - name: Work
   desc: work
   repos:
