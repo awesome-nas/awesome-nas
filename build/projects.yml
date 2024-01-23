@@ -1,3 +1,15 @@
+- name: Hack
+  desc: hack
+  repos:
+    - name: CookieCloud
+      desc: CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它内置端对端加密，可设定同步时间间隔。
+      url: https://github.com/easychen/CookieCloud
+    - name: QD
+      desc: 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+      url: https://github.com/qd-today/qd
+    - name: 青龙
+      desc: 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台
+      url: https://github.com/whyour/qinglong
 - name: Docker
   desc: docker
   repos:
