@@ -28,9 +28,15 @@
     - name: aliyun-ddns-cli
       desc: ALiDDNS - Dynamic DNS CLI for [aliyun.com]
       url: https://github.com/honwen/aliyun-ddns-cli
+    - name: frp
+      desc: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+      url: https://github.com/fatedier/frp
 - name: Media
   desc: Movie、Music、Photo
   repos:
+    - name: onelist
+      desc: 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+      url: https://github.com/msterzhang/onelist  
     - name: movie-web
       desc: movie-web 简介
       url: https://github.com/movie-web/movie-web
