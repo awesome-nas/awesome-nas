@@ -10,6 +10,9 @@
     - name: 青龙
       desc: 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台
       url: https://github.com/whyour/qinglong
+    - name: alist
+      desc: A file list/WebDAV program that supports multiple storages
+      url: https://github.com/alist-org/alist
 - name: Docker
   desc: docker
   repos:
