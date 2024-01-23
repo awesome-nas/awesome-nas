@@ -82,6 +82,9 @@
     - name: Koodo Reader
       desc: A modern ebook manager and reader with sync and backup capacities
       url: https://github.com/koodo-reader/koodo-reader
+    - name: Tale Book
+      desc: A better online books library management website built on Calibre + Vue
+      url: https://github.com/talebook/talebook
 - name: Monitor
   desc: monitor
   repos:
