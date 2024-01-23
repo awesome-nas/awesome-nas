@@ -16,6 +16,7 @@ _ddns_
 | 🔗      | Last Version | Last Commit | Last Releases | License | Stars | Top language |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ |
 |[ddns-go](https://github.com/jeessy2/ddns-go)|![图](https://img.shields.io/github/v/release/jeessy2/ddns-go?label= "title")|![图](https://img.shields.io/github/last-commit/jeessy2/ddns-go?label= "title")|![图](https://img.shields.io/github/release-date/jeessy2/ddns-go?label= "title")|![图](https://img.shields.io/github/license/jeessy2/ddns-go?label= "title")|![图](https://img.shields.io/github/stars/jeessy2/ddns-go?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/jeessy2/ddns-go "title")|
+|[aliyun-ddns-cli](https://github.com/honwen/aliyun-ddns-cli)|![图](https://img.shields.io/github/v/release/honwen/aliyun-ddns-cli?label= "title")|![图](https://img.shields.io/github/last-commit/honwen/aliyun-ddns-cli?label= "title")|![图](https://img.shields.io/github/release-date/honwen/aliyun-ddns-cli?label= "title")|![图](https://img.shields.io/github/license/honwen/aliyun-ddns-cli?label= "title")|![图](https://img.shields.io/github/stars/honwen/aliyun-ddns-cli?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/honwen/aliyun-ddns-cli "title")|
 
 ## Media
 _Movie、Music、Photo_
