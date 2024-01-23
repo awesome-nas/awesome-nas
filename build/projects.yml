@@ -110,7 +110,7 @@
       desc: A better online books library management website built on Calibre + Vue
       url: https://github.com/talebook/talebook
 - name: Monitor
-  desc: monitor
+  desc: monitor,dashboard
   repos:
     - name: Uptime Kuma
       desc: Uptime Kuma 简介
@@ -121,6 +121,9 @@
     - name: homepage
       desc: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
       url: https://github.com/gethomepage/homepage
+    - name: OneNav
+      desc: OneNav是一款开源免费的书签（导航）管理程序
+      url: https://github.com/helloxz/onenav
 - name: Work
   desc: work
   repos:
