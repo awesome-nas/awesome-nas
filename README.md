@@ -10,6 +10,15 @@ A curated list of awesome NAS（Network Attached Storage）software and resource
 
 <!-- autogen start -->
 
+## Hack
+_hack_
+
+| 🔗      | Last Version | Last Commit | Last Releases | License | Stars | Top language |
+| :------ | :------ | :------ | :------ | :------ | :------ | :------ |
+|[CookieCloud](https://github.com/easychen/CookieCloud)|![图](https://img.shields.io/github/v/release/easychen/CookieCloud?label= "title")|![图](https://img.shields.io/github/last-commit/easychen/CookieCloud?label= "title")|![图](https://img.shields.io/github/release-date/easychen/CookieCloud?label= "title")|![图](https://img.shields.io/github/license/easychen/CookieCloud?label= "title")|![图](https://img.shields.io/github/stars/easychen/CookieCloud?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/easychen/CookieCloud "title")|
+|[QD](https://github.com/qd-today/qd)|![图](https://img.shields.io/github/v/release/qd-today/qd?label= "title")|![图](https://img.shields.io/github/last-commit/qd-today/qd?label= "title")|![图](https://img.shields.io/github/release-date/qd-today/qd?label= "title")|![图](https://img.shields.io/github/license/qd-today/qd?label= "title")|![图](https://img.shields.io/github/stars/qd-today/qd?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/qd-today/qd "title")|
+|[青龙](https://github.com/whyour/qinglong)|![图](https://img.shields.io/github/v/release/whyour/qinglong?label= "title")|![图](https://img.shields.io/github/last-commit/whyour/qinglong?label= "title")|![图](https://img.shields.io/github/release-date/whyour/qinglong?label= "title")|![图](https://img.shields.io/github/license/whyour/qinglong?label= "title")|![图](https://img.shields.io/github/stars/whyour/qinglong?label=&style=flat "title")|![图](https://img.shields.io/github/languages/top/whyour/qinglong "title")|
+
 ## Docker
 _docker_
 
