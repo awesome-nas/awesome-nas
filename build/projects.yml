@@ -37,6 +37,9 @@
     - name: Photoview
       desc: Photo gallery for self-hosted personal servers
       url: https://github.com/photoview/photoview
+    - name: AutoBangumi
+      desc: 基于 RSS 的全自动追番整理下载工具
+      url: https://github.com/EstrellaXD/Auto_Bangumi
 - name: Note
   desc: note
   repos:
@@ -91,6 +94,9 @@
     - name: Danswer
       desc: Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
       url: https://github.com/danswer-ai/danswer
+    - name: RustDesk
+      desc: Self-host your own RustDesk server, it is free and open source.
+      url: https://github.com/rustdesk/rustdesk-server
 - name: Development
   desc: development platform
   repos:
