@@ -52,6 +52,9 @@
     - name: 九快记账
       desc: 个人记账解决方案
       url: https://github.com/getmoneynote/moneywhere-user-fe
+    - name: Personal Management System
+      desc: Your web application for managing personal data.
+      url: https://github.com/Volmarg/personal-management-system
 - name: eBook
   desc: ebook
   repos:
