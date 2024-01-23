@@ -1,3 +1,12 @@
+- name: Docker
+  desc: docker
+  repos:
+    - name: Dockge
+      desc: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
+      url: https://github.com/louislam/dockge
+    - name: Portainer
+      desc: Making Docker and Kubernetes management easy.
+      url: https://github.com/portainer/portainer
 - name: DDNS
   desc: ddns
   repos:
