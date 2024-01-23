@@ -37,9 +37,15 @@
     - name: Photoview
       desc: Photo gallery for self-hosted personal servers
       url: https://github.com/photoview/photoview
+    - name: Immich
+      desc: High performance self-hosted photo and video backup solution
+      url: https://github.com/immich-app/immich
     - name: AutoBangumi
       desc: 基于 RSS 的全自动追番整理下载工具
       url: https://github.com/EstrellaXD/Auto_Bangumi
+    - name: Navidrome
+      desc: Modern Music Server and Streamer compatible with Subsonic/Airsonic
+      url: https://github.com/navidrome/navidrome
 - name: Note
   desc: note
   repos:
