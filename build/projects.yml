@@ -4,6 +4,9 @@
     - name: ddns-go
       desc: 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。
       url: https://github.com/jeessy2/ddns-go
+    - name: aliyun-ddns-cli
+      desc: ALiDDNS - Dynamic DNS CLI for [aliyun.com]
+      url: https://github.com/honwen/aliyun-ddns-cli
 - name: Media
   desc: Movie、Music、Photo
   repos:
