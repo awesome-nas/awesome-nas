@@ -139,6 +139,9 @@
     - name: OneNav
       desc: OneNav是一款开源免费的书签（导航）管理程序
       url: https://github.com/helloxz/onenav
+    - name: Kener
+      desc: Kener is a Modern Self hosted Status Page, batteries included
+      url: https://github.com/rajnandan1/kener
 - name: Work
   desc: work
   repos:
