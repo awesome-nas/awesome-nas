@@ -19,6 +19,9 @@
     - name: vaultwarden
       desc: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
       url: https://github.com/dani-garcia/vaultwarden
+    - name: Moodist
+      desc: 有助于集中注意力和平静的环境声音
+      url: https://github.com/geekyouth/moodist
 - name: Docker
   desc: docker
   repos:
