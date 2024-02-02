@@ -160,6 +160,9 @@
     - name: Agora Flat
       desc: open source classroom
       url: https://github.com/netless-io/flat
+    - name: Slash
+      desc: An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+      url: https://github.com/yourselfhosted/slash
 - name: Development
   desc: development platform
   repos:
