@@ -22,6 +22,12 @@
     - name: Moodist
       desc: 有助于集中注意力和平静的环境声音
       url: https://github.com/geekyouth/moodist
+- name: Tools
+  desc: tools
+  repos:
+    - name: Stirling-PDF
+      desc: locally hosted web application that allows you to perform various operations on PDF files
+      url: https://github.com/Stirling-Tools/Stirling-PDF
 - name: Docker
   desc: docker
   repos:
