@@ -94,6 +94,9 @@
     - name: audiobookshelf
       desc: Audiobookshelf is a self-hosted audiobook and podcast server.
       url: https://github.com/advplyr/audiobookshelf
+    - name: Komga
+      desc: Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+      url: https://github.com/gotson/komga
 - name: Note
   desc: note
   repos:
