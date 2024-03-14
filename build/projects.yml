@@ -22,6 +22,15 @@
     - name: Moodist
       desc: 有助于集中注意力和平静的环境声音
       url: https://github.com/geekyouth/moodist
+- name: RSS
+  desc: hack
+  repos:
+    - name: Miniflux
+      desc: Miniflux is a minimalist and opinionated feed reader
+      url: https://github.com/miniflux/v2
+    - name: RSSHub
+      desc: RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+      url: https://github.com/DIYgod/RSSHub      
 - name: Tools
   desc: tools
   repos:
@@ -199,9 +208,6 @@
     - name: Apache Answer
       desc: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform
       url: https://github.com/apache/incubator-answer
-    - name: RSSHub
-      desc: RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
-      url: https://github.com/DIYgod/RSSHub
 - name: BitTorrent
   desc: bitTorrent
   repos:
