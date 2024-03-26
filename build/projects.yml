@@ -181,6 +181,9 @@
     - name: Slash
       desc: An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
       url: https://github.com/yourselfhosted/slash
+    - name: Menthor
+      desc: Plataforma open-source de ensino de programação.
+      url: https://github.com/menthorlabs/menthor
 - name: Development
   desc: development platform
   repos:
